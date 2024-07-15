@@ -1,5 +1,5 @@
 # LCD-coffe-maker
-School project on Arduino to make a coffe maker with LCD
+Projeto técnico em Arduino, simulação de máquina de café
 
 <h2>System:</h2>
 
